@@ -2,7 +2,6 @@
 
 基于 Golang + React 的资产侦察与管理系统，用于安全团队的资产管理和授权测试。
 
-本项目参考了 [adysec/ARL](https://github.com/adysec/ARL) 的设计思路。
 
 微信沟通群：
 ![image](https://github.com/user-attachments/assets/54a3c6c4-dded-4cb7-8dbc-ed69084fa972)
@@ -564,9 +563,6 @@ go run cmd/server/main.go
 
 MIT License
 
-## 致谢
-
-本项目参考了 [adysec/ARL](https://github.com/adysec/ARL) 的设计思路。
 
 ## 免责声明
 
